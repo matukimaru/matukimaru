@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @matuj
-- 👀 I’m interested in cloud and devops
-- 🌱 I’m currently learning python, DRF, Vue.js, Nuxt, DevSecOps
-- 💞️ I’m looking to collaborate on my interests
 - 📫 How to reach me matu.kimaru@gmail.com
 
 <!---
